@@ -1,0 +1,6 @@
+metpy.calc.nearest_intersection_idx
+===================================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: nearest_intersection_idx

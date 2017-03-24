@@ -1,0 +1,6 @@
+metpy.calc.resample_nn_1d
+=========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: resample_nn_1d

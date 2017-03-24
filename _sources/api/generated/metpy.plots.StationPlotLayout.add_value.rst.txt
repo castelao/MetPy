@@ -1,0 +1,6 @@
+metpy.plots.StationPlotLayout.add_value
+=======================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: StationPlotLayout.add_value

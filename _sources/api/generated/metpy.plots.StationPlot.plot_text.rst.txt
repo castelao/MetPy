@@ -1,0 +1,6 @@
+metpy.plots.StationPlot.plot_text
+=================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: StationPlot.plot_text

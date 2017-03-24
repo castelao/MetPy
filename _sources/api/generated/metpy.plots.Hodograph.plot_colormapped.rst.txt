@@ -1,0 +1,6 @@
+metpy.plots.Hodograph.plot_colormapped
+======================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: Hodograph.plot_colormapped

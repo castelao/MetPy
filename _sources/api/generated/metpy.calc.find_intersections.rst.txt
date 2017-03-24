@@ -1,0 +1,6 @@
+metpy.calc.find_intersections
+=============================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: find_intersections

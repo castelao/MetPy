@@ -1,0 +1,6 @@
+metpy.plots.SkewT.plot_moist_adiabats
+=====================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: SkewT.plot_moist_adiabats

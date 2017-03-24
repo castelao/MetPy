@@ -1,0 +1,6 @@
+metpy.plots.Hodograph.add_grid
+==============================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: Hodograph.add_grid

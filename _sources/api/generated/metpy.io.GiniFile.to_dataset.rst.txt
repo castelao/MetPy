@@ -1,0 +1,6 @@
+metpy.io.GiniFile.to_dataset
+============================
+
+.. currentmodule:: metpy.io
+
+.. automethod:: GiniFile.to_dataset

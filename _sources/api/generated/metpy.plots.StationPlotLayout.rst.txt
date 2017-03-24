@@ -1,0 +1,38 @@
+metpy.plots.StationPlotLayout
+=============================
+
+.. currentmodule:: metpy.plots
+
+.. autoclass:: StationPlotLayout
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~StationPlotLayout.add_barb
+      ~StationPlotLayout.add_symbol
+      ~StationPlotLayout.add_text
+      ~StationPlotLayout.add_value
+      ~StationPlotLayout.clear
+      ~StationPlotLayout.copy
+      ~StationPlotLayout.fromkeys
+      ~StationPlotLayout.get
+      ~StationPlotLayout.items
+      ~StationPlotLayout.keys
+      ~StationPlotLayout.names
+      ~StationPlotLayout.plot
+      ~StationPlotLayout.pop
+      ~StationPlotLayout.popitem
+      ~StationPlotLayout.setdefault
+      ~StationPlotLayout.update
+      ~StationPlotLayout.values
+   
+   
+
+   
+   
+   

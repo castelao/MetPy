@@ -1,0 +1,6 @@
+metpy.plots.SkewT.plot_mixing_lines
+===================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: SkewT.plot_mixing_lines

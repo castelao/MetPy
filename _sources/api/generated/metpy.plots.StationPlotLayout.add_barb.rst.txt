@@ -1,0 +1,6 @@
+metpy.plots.StationPlotLayout.add_barb
+======================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: StationPlotLayout.add_barb

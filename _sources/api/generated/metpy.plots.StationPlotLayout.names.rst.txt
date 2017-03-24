@@ -1,0 +1,6 @@
+metpy.plots.StationPlotLayout.names
+===================================
+
+.. currentmodule:: metpy.plots
+
+.. automethod:: StationPlotLayout.names

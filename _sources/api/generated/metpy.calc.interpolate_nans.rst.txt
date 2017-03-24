@@ -1,0 +1,6 @@
+metpy.calc.interpolate_nans
+===========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: interpolate_nans
